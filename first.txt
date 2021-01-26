@@ -2,4 +2,5 @@
 gitを学びます
 gid add
 gid commit
+git status
 
