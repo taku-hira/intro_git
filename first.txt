@@ -1,3 +1,5 @@
 初めてのgit
 gitを学びます
+gid add
+gid commit
 
